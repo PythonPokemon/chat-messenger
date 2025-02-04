@@ -1,0 +1,8 @@
+localhost:
+http://127.0.0.1:5500/templates/index.html
+
+Bootstrap:
+https://getbootstrap.com/docs/5.3/components/card/
+
+Youtube
+https://www.youtube.com/watch?v=l9u_vm9aAmM&t=1898s
